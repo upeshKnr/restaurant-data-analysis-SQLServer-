@@ -41,16 +41,19 @@ The project uses a real-world restaurant dataset named Jomato.
 Dataset File:
 Jomato.csv
 
-Key Columns Used
-Column Name	Description
-RestaurantName	Name of the restaurant
-RestaurantType	Type/category of restaurant
-CuisinesType	Cuisine served
-Rating	Average customer rating
-No of Rating	Total number of customer ratings
-AverageCost	Average cost for two people
-TableBooking	Table booking availability
-Area	Restaurant location/area
+#### Key Columns Used
+
+| Column Name        | Description                                   |
+|--------------------|-----------------------------------------------|
+| RestaurantName     | Name of the restaurant                        |
+| RestaurantType     | Type or category of the restaurant            |
+| CuisinesType       | Cuisine served                                |
+| Rating             | Average customer rating                       |
+| NoOfRating         | Total number of customer ratings              |
+| AverageCost        | Average cost for two people                   |
+| TableBooking       | Table booking availability                   |
+| Area               | Restaurant location or area                  |
+
 
 
 ### 📌 The dataset is imported into SQL Server as a table named Jomato.
