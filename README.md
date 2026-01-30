@@ -84,3 +84,92 @@ Views
 
 Triggers
 
+
+### 📊 Task-wise Analysis Breakdown
+🔹 Task 1: User-Defined Function (UDF)
+
+Objective:
+Identify restaurants offering quick chicken bites by modifying restaurant types.
+
+Concepts Used:
+CREATE FUNCTION, IF...ELSE
+
+🔹 Task 2: Identifying Restaurant with Maximum Ratings
+
+Objective:
+Find the restaurant with the highest number of customer ratings to measure popularity.
+
+Concepts Used:
+CTE, aggregate functions, filtering
+
+🔹 Task 3: Rating Classification
+
+Objective:
+Categorize restaurants into Excellent, Good, Average, Bad based on ratings.
+
+Concepts Used:
+CASE statement
+
+🔹 Task 4: Numeric & Date Analysis
+
+Objective:
+Analyze rating values using mathematical functions and extract current date components.
+
+Concepts Used:
+CEILING, FLOOR, ABS, GETDATE
+
+🔹 Task 5: Average Cost Analysis using ROLLUP
+
+Objective:
+Calculate average cost per restaurant type with subtotal and grand total insights.
+
+Concepts Used:
+GROUP BY ROLLUP
+
+🔹 Task 6: Stored Procedure
+
+Objective:
+Retrieve restaurants that offer table booking.
+
+Concepts Used:
+CREATE PROCEDURE, filtering logic
+
+🔹 Task 7: Transaction Handling
+
+Objective:
+Demonstrate safe data updates using transactions with rollback capability.
+
+Concepts Used:
+BEGIN TRANSACTION, UPDATE, ROLLBACK
+
+🔹 Task 8: Top 5 Areas using Window Functions
+
+Objective:
+Identify top 5 areas with highest-rated restaurants.
+
+Concepts Used:
+ROW_NUMBER() window function, CTE
+
+🔹 Task 9: Control Flow using WHILE Loop
+
+Objective:
+Demonstrate procedural logic within SQL.
+
+Concepts Used:
+WHILE loop
+
+🔹 Task 10: View Creation
+
+Objective:
+Create a reusable view to store top-rated restaurants.
+
+Concepts Used:
+CREATE VIEW, TOP, ORDER BY
+
+🔹 Task 11: Trigger Creation
+
+Objective:
+Notify whenever a new restaurant record is inserted.
+
+Concepts Used:
+AFTER INSERT trigger
