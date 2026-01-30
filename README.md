@@ -7,6 +7,7 @@ The objective is to extract business-driven insights related to restaurant types
 
 The project demonstrates real-world SQL analytics skills by solving practical business questions using advanced SQL concepts such as CTEs, Window Functions, User-Defined Functions, Stored Procedures, Transactions, Views, and Triggers.
 
+---
 
 ### 🎯 Business Objectives
 
@@ -24,6 +25,7 @@ Ensure data integrity using transactions and triggers
 
 Enable reusable and scalable SQL logic for analytics
 
+---
 
 ### 🛠️ Tech Stack
 
@@ -33,6 +35,7 @@ Language: T-SQL
 
 Tools: SQL Server Management Studio (SSMS)
 
+---
 
 ### 📂 Dataset Information
 
@@ -52,6 +55,7 @@ AverageCost	Average cost for two people
 TableBooking	Table booking availability
 Area	Restaurant location/area
 
+---
 
 ### 📌 The dataset is imported into SQL Server as a table named Jomato.
 
@@ -80,3 +84,4 @@ Control Flow (WHILE loop)
 Views
 
 Triggers
+
