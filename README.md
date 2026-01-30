@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Data Analytics using SQL (Jomato Dataset)
+# 🍽️ Restaurant Data Analytics using - SQL Server
 
 ### 📌 Project Overview
 
