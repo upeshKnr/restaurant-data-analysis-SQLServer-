@@ -1,5 +1,7 @@
 # 🍽️ Restaurant Data Analytics using SQL (Jomato Dataset)
 
+----
+
 ### 📌 Project Overview
 
 This project performs end-to-end restaurant data analysis using SQL on the Jomato dataset.
